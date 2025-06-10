@@ -8,7 +8,7 @@ new Vue({
           img1: "image/family1.jpeg",
            img3: "image/family2.jpeg",
           img2: "image/family3.jpeg",
-          title: "COUPLE",
+          title: "FAMILY",
           isOpen: false,
         },
         {
